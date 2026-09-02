@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://braytonosg.github.io/sitemap.xml
+Sitemap: https://braytonosg.github.iocrawford-labs/sitemap.xml
